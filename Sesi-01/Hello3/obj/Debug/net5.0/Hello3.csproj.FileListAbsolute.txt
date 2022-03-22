@@ -1,0 +1,16 @@
+D:\LEARN\C#\Sesi-01\Hello3\bin\Debug\net5.0\Hello3.exe
+D:\LEARN\C#\Sesi-01\Hello3\bin\Debug\net5.0\Hello3.deps.json
+D:\LEARN\C#\Sesi-01\Hello3\bin\Debug\net5.0\Hello3.runtimeconfig.json
+D:\LEARN\C#\Sesi-01\Hello3\bin\Debug\net5.0\Hello3.runtimeconfig.dev.json
+D:\LEARN\C#\Sesi-01\Hello3\bin\Debug\net5.0\Hello3.dll
+D:\LEARN\C#\Sesi-01\Hello3\bin\Debug\net5.0\ref\Hello3.dll
+D:\LEARN\C#\Sesi-01\Hello3\bin\Debug\net5.0\Hello3.pdb
+D:\LEARN\C#\Sesi-01\Hello3\obj\Debug\net5.0\Hello3.csproj.AssemblyReference.cache
+D:\LEARN\C#\Sesi-01\Hello3\obj\Debug\net5.0\Hello3.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\Sesi-01\Hello3\obj\Debug\net5.0\Hello3.AssemblyInfoInputs.cache
+D:\LEARN\C#\Sesi-01\Hello3\obj\Debug\net5.0\Hello3.AssemblyInfo.cs
+D:\LEARN\C#\Sesi-01\Hello3\obj\Debug\net5.0\Hello3.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\Sesi-01\Hello3\obj\Debug\net5.0\Hello3.dll
+D:\LEARN\C#\Sesi-01\Hello3\obj\Debug\net5.0\ref\Hello3.dll
+D:\LEARN\C#\Sesi-01\Hello3\obj\Debug\net5.0\Hello3.pdb
+D:\LEARN\C#\Sesi-01\Hello3\obj\Debug\net5.0\Hello3.genruntimeconfig.cache
