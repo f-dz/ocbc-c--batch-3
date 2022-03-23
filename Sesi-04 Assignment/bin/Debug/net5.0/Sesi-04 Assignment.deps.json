@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sesi-04 Assignment/1.0.0": {
+        "runtime": {
+          "Sesi-04 Assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sesi-04 Assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
