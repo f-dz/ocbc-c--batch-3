@@ -1,0 +1,16 @@
+D:\LEARN\C#\Sesi-05\ProgramOverloading\obj\Debug\net5.0\ProgramOverloading.csproj.AssemblyReference.cache
+D:\LEARN\C#\Sesi-05\ProgramOverloading\obj\Debug\net5.0\ProgramOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\Sesi-05\ProgramOverloading\obj\Debug\net5.0\ProgramOverloading.AssemblyInfoInputs.cache
+D:\LEARN\C#\Sesi-05\ProgramOverloading\obj\Debug\net5.0\ProgramOverloading.AssemblyInfo.cs
+D:\LEARN\C#\Sesi-05\ProgramOverloading\obj\Debug\net5.0\ProgramOverloading.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\Sesi-05\ProgramOverloading\bin\Debug\net5.0\ProgramOverloading.exe
+D:\LEARN\C#\Sesi-05\ProgramOverloading\bin\Debug\net5.0\ProgramOverloading.deps.json
+D:\LEARN\C#\Sesi-05\ProgramOverloading\bin\Debug\net5.0\ProgramOverloading.runtimeconfig.json
+D:\LEARN\C#\Sesi-05\ProgramOverloading\bin\Debug\net5.0\ProgramOverloading.runtimeconfig.dev.json
+D:\LEARN\C#\Sesi-05\ProgramOverloading\bin\Debug\net5.0\ProgramOverloading.dll
+D:\LEARN\C#\Sesi-05\ProgramOverloading\bin\Debug\net5.0\ref\ProgramOverloading.dll
+D:\LEARN\C#\Sesi-05\ProgramOverloading\bin\Debug\net5.0\ProgramOverloading.pdb
+D:\LEARN\C#\Sesi-05\ProgramOverloading\obj\Debug\net5.0\ProgramOverloading.dll
+D:\LEARN\C#\Sesi-05\ProgramOverloading\obj\Debug\net5.0\ref\ProgramOverloading.dll
+D:\LEARN\C#\Sesi-05\ProgramOverloading\obj\Debug\net5.0\ProgramOverloading.pdb
+D:\LEARN\C#\Sesi-05\ProgramOverloading\obj\Debug\net5.0\ProgramOverloading.genruntimeconfig.cache

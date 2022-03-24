@@ -1,0 +1,16 @@
+D:\LEARN\C#\Sesi-05\ProgramPesawatInheritance\obj\Debug\net5.0\ProgramPesawatInheritance.csproj.AssemblyReference.cache
+D:\LEARN\C#\Sesi-05\ProgramPesawatInheritance\obj\Debug\net5.0\ProgramPesawatInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\Sesi-05\ProgramPesawatInheritance\obj\Debug\net5.0\ProgramPesawatInheritance.AssemblyInfoInputs.cache
+D:\LEARN\C#\Sesi-05\ProgramPesawatInheritance\obj\Debug\net5.0\ProgramPesawatInheritance.AssemblyInfo.cs
+D:\LEARN\C#\Sesi-05\ProgramPesawatInheritance\obj\Debug\net5.0\ProgramPesawatInheritance.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\Sesi-05\ProgramPesawatInheritance\bin\Debug\net5.0\ProgramPesawatInheritance.exe
+D:\LEARN\C#\Sesi-05\ProgramPesawatInheritance\bin\Debug\net5.0\ProgramPesawatInheritance.deps.json
+D:\LEARN\C#\Sesi-05\ProgramPesawatInheritance\bin\Debug\net5.0\ProgramPesawatInheritance.runtimeconfig.json
+D:\LEARN\C#\Sesi-05\ProgramPesawatInheritance\bin\Debug\net5.0\ProgramPesawatInheritance.runtimeconfig.dev.json
+D:\LEARN\C#\Sesi-05\ProgramPesawatInheritance\bin\Debug\net5.0\ProgramPesawatInheritance.dll
+D:\LEARN\C#\Sesi-05\ProgramPesawatInheritance\bin\Debug\net5.0\ref\ProgramPesawatInheritance.dll
+D:\LEARN\C#\Sesi-05\ProgramPesawatInheritance\bin\Debug\net5.0\ProgramPesawatInheritance.pdb
+D:\LEARN\C#\Sesi-05\ProgramPesawatInheritance\obj\Debug\net5.0\ProgramPesawatInheritance.dll
+D:\LEARN\C#\Sesi-05\ProgramPesawatInheritance\obj\Debug\net5.0\ref\ProgramPesawatInheritance.dll
+D:\LEARN\C#\Sesi-05\ProgramPesawatInheritance\obj\Debug\net5.0\ProgramPesawatInheritance.pdb
+D:\LEARN\C#\Sesi-05\ProgramPesawatInheritance\obj\Debug\net5.0\ProgramPesawatInheritance.genruntimeconfig.cache

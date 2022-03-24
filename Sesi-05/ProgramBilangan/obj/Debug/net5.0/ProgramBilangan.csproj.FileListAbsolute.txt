@@ -1,0 +1,16 @@
+D:\LEARN\C#\Sesi-05\ProgramBilangan\obj\Debug\net5.0\ProgramBilangan.csproj.AssemblyReference.cache
+D:\LEARN\C#\Sesi-05\ProgramBilangan\obj\Debug\net5.0\ProgramBilangan.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\Sesi-05\ProgramBilangan\obj\Debug\net5.0\ProgramBilangan.AssemblyInfoInputs.cache
+D:\LEARN\C#\Sesi-05\ProgramBilangan\obj\Debug\net5.0\ProgramBilangan.AssemblyInfo.cs
+D:\LEARN\C#\Sesi-05\ProgramBilangan\obj\Debug\net5.0\ProgramBilangan.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\Sesi-05\ProgramBilangan\bin\Debug\net5.0\ProgramBilangan.exe
+D:\LEARN\C#\Sesi-05\ProgramBilangan\bin\Debug\net5.0\ProgramBilangan.deps.json
+D:\LEARN\C#\Sesi-05\ProgramBilangan\bin\Debug\net5.0\ProgramBilangan.runtimeconfig.json
+D:\LEARN\C#\Sesi-05\ProgramBilangan\bin\Debug\net5.0\ProgramBilangan.runtimeconfig.dev.json
+D:\LEARN\C#\Sesi-05\ProgramBilangan\bin\Debug\net5.0\ProgramBilangan.dll
+D:\LEARN\C#\Sesi-05\ProgramBilangan\bin\Debug\net5.0\ref\ProgramBilangan.dll
+D:\LEARN\C#\Sesi-05\ProgramBilangan\bin\Debug\net5.0\ProgramBilangan.pdb
+D:\LEARN\C#\Sesi-05\ProgramBilangan\obj\Debug\net5.0\ProgramBilangan.dll
+D:\LEARN\C#\Sesi-05\ProgramBilangan\obj\Debug\net5.0\ref\ProgramBilangan.dll
+D:\LEARN\C#\Sesi-05\ProgramBilangan\obj\Debug\net5.0\ProgramBilangan.pdb
+D:\LEARN\C#\Sesi-05\ProgramBilangan\obj\Debug\net5.0\ProgramBilangan.genruntimeconfig.cache

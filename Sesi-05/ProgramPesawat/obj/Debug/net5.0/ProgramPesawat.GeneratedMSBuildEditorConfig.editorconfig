@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = Sesi_04_Assignment
-build_property.ProjectDir = d:\LEARN\C#\ocbc-csharp-batch-3\Sesi-04 Assignment\
+build_property.RootNamespace = ProgramPesawat
+build_property.ProjectDir = D:\LEARN\C#\Sesi-05\ProgramPesawat\

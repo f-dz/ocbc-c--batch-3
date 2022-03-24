@@ -1,0 +1,16 @@
+D:\LEARN\C#\Sesi-05\ProgramPesawat\obj\Debug\net5.0\ProgramPesawat.csproj.AssemblyReference.cache
+D:\LEARN\C#\Sesi-05\ProgramPesawat\obj\Debug\net5.0\ProgramPesawat.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\Sesi-05\ProgramPesawat\obj\Debug\net5.0\ProgramPesawat.AssemblyInfoInputs.cache
+D:\LEARN\C#\Sesi-05\ProgramPesawat\obj\Debug\net5.0\ProgramPesawat.AssemblyInfo.cs
+D:\LEARN\C#\Sesi-05\ProgramPesawat\obj\Debug\net5.0\ProgramPesawat.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\Sesi-05\ProgramPesawat\bin\Debug\net5.0\ProgramPesawat.exe
+D:\LEARN\C#\Sesi-05\ProgramPesawat\bin\Debug\net5.0\ProgramPesawat.deps.json
+D:\LEARN\C#\Sesi-05\ProgramPesawat\bin\Debug\net5.0\ProgramPesawat.runtimeconfig.json
+D:\LEARN\C#\Sesi-05\ProgramPesawat\bin\Debug\net5.0\ProgramPesawat.runtimeconfig.dev.json
+D:\LEARN\C#\Sesi-05\ProgramPesawat\bin\Debug\net5.0\ProgramPesawat.dll
+D:\LEARN\C#\Sesi-05\ProgramPesawat\bin\Debug\net5.0\ref\ProgramPesawat.dll
+D:\LEARN\C#\Sesi-05\ProgramPesawat\bin\Debug\net5.0\ProgramPesawat.pdb
+D:\LEARN\C#\Sesi-05\ProgramPesawat\obj\Debug\net5.0\ProgramPesawat.dll
+D:\LEARN\C#\Sesi-05\ProgramPesawat\obj\Debug\net5.0\ref\ProgramPesawat.dll
+D:\LEARN\C#\Sesi-05\ProgramPesawat\obj\Debug\net5.0\ProgramPesawat.pdb
+D:\LEARN\C#\Sesi-05\ProgramPesawat\obj\Debug\net5.0\ProgramPesawat.genruntimeconfig.cache
