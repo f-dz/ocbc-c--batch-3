@@ -1,0 +1,1 @@
+Pada Sesi 15 dilakukan mentoring dimana peserta dipersilahkan jika ada yang ingin ditanyakan terkait pengerjaan final project nya dan fase persiapan presentasi final projects.

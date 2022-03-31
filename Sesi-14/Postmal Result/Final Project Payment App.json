@@ -1,0 +1,264 @@
+{
+	"info": {
+		"_postman_id": "a1fee9d6-e503-4638-ba14-a6a03d64b73b",
+		"name": "OCBC Batch 3 Final Project 1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Register",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjQzNzE5MmJlLTQ0NWUtNGFiMy04MDM3LWI2OWQ1YzE5ZjQ0YSIsImVtYWlsIjoiZmF0aW5kekBnbWFpbC5jb20iLCJzdWIiOiJmYXRpbmR6QGdtYWlsLmNvbSIsImp0aSI6IjFmMmNkMDVmLWE5NTQtNDgzMi05MjU3LTA3YzQ1M2IyZWVlNCIsIm5iZiI6MTY0ODU5ODQ1NCwiZXhwIjoxNjQ4NjIwMDU0LCJpYXQiOjE2NDg1OTg0NTR9.uxkLl4R_vd85Ra1d3yIpH4yFrQcjcWCvqRCj-lVAmCs",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"username\": \"fatinzakiya\",\r\n  \"email\": \"fatinzakiya@gmail.com\",\r\n  \"password\": \"@Dz123\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://fatin-payment-app.herokuapp.com/api/authmanagement/register",
+					"protocol": "https",
+					"host": [
+						"fatin-payment-app",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"api",
+						"authmanagement",
+						"register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Login",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"email\": \"fatinzakiya@gmail.com\",\r\n  \"password\": \"@Dz123\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://fatin-payment-app.herokuapp.com/api/authmanagement/login",
+					"protocol": "https",
+					"host": [
+						"fatin-payment-app",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"api",
+						"authmanagement",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Token",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"token\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjQ2ODY1MTdjLTJjNWYtNDFlZC1iZTQxLWFjYTJiMDk2MTZjZiIsImVtYWlsIjoiZmF0aW56YWtpeWFAZ21haWwuY29tIiwic3ViIjoiZmF0aW56YWtpeWFAZ21haWwuY29tIiwianRpIjoiNzVlNmYwNWUtOTQ0Ny00NmEzLTlkMjQtOTA5MWU1YTA4NzQwIiwibmJmIjoxNjQ4NjI3OTI2LCJleHAiOjE2NDg2Mjk3MjYsImlhdCI6MTY0ODYyNzkyNn0.8f9WbKNvNlsX9EUvxchM6ROmgAJ9lpkI6YJf7jWD0EE\",\r\n    \"refreshToken\": \"3EAZ0Y2MHCO19OPWLMK2R071I0NBFFQE99Kcaf41f5a-d888-48ae-960f-c3453edb9bec\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://fatin-payment-app.herokuapp.com/api/authmanagement/refreshtoken",
+					"protocol": "https",
+					"host": [
+						"fatin-payment-app",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"api",
+						"authmanagement",
+						"refreshtoken"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Post Payment",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjQ2ODY1MTdjLTJjNWYtNDFlZC1iZTQxLWFjYTJiMDk2MTZjZiIsImVtYWlsIjoiZmF0aW56YWtpeWFAZ21haWwuY29tIiwic3ViIjoiZmF0aW56YWtpeWFAZ21haWwuY29tIiwianRpIjoiNzVlNmYwNWUtOTQ0Ny00NmEzLTlkMjQtOTA5MWU1YTA4NzQwIiwibmJmIjoxNjQ4NjI3OTI2LCJleHAiOjE2NDg2Mjk3MjYsImlhdCI6MTY0ODYyNzkyNn0.8f9WbKNvNlsX9EUvxchM6ROmgAJ9lpkI6YJf7jWD0EE",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"cardOwnerName\": \"Dzakiyah Fatin\",\r\n  \"cardNumber\": \"67890\",\r\n  \"expirationDate\": \"2022-10-10\",\r\n  \"securityCode\": \"890\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://fatin-payment-app.herokuapp.com/api/payment",
+					"protocol": "https",
+					"host": [
+						"fatin-payment-app",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"api",
+						"payment"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Payment",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjQ2ODY1MTdjLTJjNWYtNDFlZC1iZTQxLWFjYTJiMDk2MTZjZiIsImVtYWlsIjoiZmF0aW56YWtpeWFAZ21haWwuY29tIiwic3ViIjoiZmF0aW56YWtpeWFAZ21haWwuY29tIiwianRpIjoiNzVlNmYwNWUtOTQ0Ny00NmEzLTlkMjQtOTA5MWU1YTA4NzQwIiwibmJmIjoxNjQ4NjI3OTI2LCJleHAiOjE2NDg2Mjk3MjYsImlhdCI6MTY0ODYyNzkyNn0.8f9WbKNvNlsX9EUvxchM6ROmgAJ9lpkI6YJf7jWD0EE",
+						"type": "default"
+					}
+				],
+				"url": {
+					"raw": "https://fatin-payment-app.herokuapp.com/api/payment",
+					"protocol": "https",
+					"host": [
+						"fatin-payment-app",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"api",
+						"payment"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Payment Where Id",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjQ2ODY1MTdjLTJjNWYtNDFlZC1iZTQxLWFjYTJiMDk2MTZjZiIsImVtYWlsIjoiZmF0aW56YWtpeWFAZ21haWwuY29tIiwic3ViIjoiZmF0aW56YWtpeWFAZ21haWwuY29tIiwianRpIjoiNzVlNmYwNWUtOTQ0Ny00NmEzLTlkMjQtOTA5MWU1YTA4NzQwIiwibmJmIjoxNjQ4NjI3OTI2LCJleHAiOjE2NDg2Mjk3MjYsImlhdCI6MTY0ODYyNzkyNn0.8f9WbKNvNlsX9EUvxchM6ROmgAJ9lpkI6YJf7jWD0EE",
+						"type": "default"
+					}
+				],
+				"url": {
+					"raw": "https://fatin-payment-app.herokuapp.com/api/payment/1",
+					"protocol": "https",
+					"host": [
+						"fatin-payment-app",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"api",
+						"payment",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Put Payment",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjQ2ODY1MTdjLTJjNWYtNDFlZC1iZTQxLWFjYTJiMDk2MTZjZiIsImVtYWlsIjoiZmF0aW56YWtpeWFAZ21haWwuY29tIiwic3ViIjoiZmF0aW56YWtpeWFAZ21haWwuY29tIiwianRpIjoiOTEzMzhjMGItNDg1MS00YTM1LTgzZTEtZjc4NjFmNDBhMzAxIiwibmJmIjoxNjQ4NjI5OTkwLCJleHAiOjE2NDg2MzE3OTAsImlhdCI6MTY0ODYyOTk5MH0.ivqfqXPXFhqhS3L11VUkFXCwIXQvbKXymBkSJiitLWk",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"paymentDetailId\": 2,\r\n  \"cardOwnerName\": \"Dzakiyah Fatin\",\r\n  \"cardNumber\": \"000111\",\r\n  \"expirationDate\": \"2022-03-03\",\r\n  \"securityCode\": \"111\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://fatin-payment-app.herokuapp.com/api/payment/2",
+					"protocol": "https",
+					"host": [
+						"fatin-payment-app",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"api",
+						"payment",
+						"2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Payment",
+			"request": {
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjQ2ODY1MTdjLTJjNWYtNDFlZC1iZTQxLWFjYTJiMDk2MTZjZiIsImVtYWlsIjoiZmF0aW56YWtpeWFAZ21haWwuY29tIiwic3ViIjoiZmF0aW56YWtpeWFAZ21haWwuY29tIiwianRpIjoiOTEzMzhjMGItNDg1MS00YTM1LTgzZTEtZjc4NjFmNDBhMzAxIiwibmJmIjoxNjQ4NjI5OTkwLCJleHAiOjE2NDg2MzE3OTAsImlhdCI6MTY0ODYyOTk5MH0.ivqfqXPXFhqhS3L11VUkFXCwIXQvbKXymBkSJiitLWk",
+						"type": "default"
+					}
+				],
+				"url": {
+					"raw": "https://fatin-payment-app.herokuapp.com/api/payment/2",
+					"protocol": "https",
+					"host": [
+						"fatin-payment-app",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"api",
+						"payment",
+						"2"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
